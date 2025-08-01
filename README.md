@@ -23,7 +23,7 @@
 
   <h3>2. Clone the Repository</h3>
   <pre>
-git clone https://github.com/gunavardhanlomada/Campus-Unite
+git clone https://github.com/BharathKondragunta/Campus_Unite.git
 cd Campus-Unite
   </pre>
 
@@ -60,6 +60,6 @@ npm start      # Start the server
   <p>Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.</p>
 
   <h2>📄 License</h2>
-  <p>This project is open-source and available under the <a href="https://github.com/gunavardhanlomada/Campus-Unite/blob/main/LICENSE" target="_blank">MIT License</a>.</p>
+  <p>This project is open-source and available under the <a href="https://github.com/BharathKondragunta/Campus_Unite/blob/main/LICENSE" target="_blank">MIT License</a>.</p>
 
 </div>
