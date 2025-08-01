@@ -2,6 +2,8 @@
 
   <h1>Campus Unite</h1>
 
+  <p><strong>Campus Unite</strong> is a full-stack MERN (MongoDB, Express, React, Node.js) web application that connects collage Students to contribute to various causes and events.</p>
+
   <h2>🛠️ Technologies Used</h2>
   <ul>
     <li><strong>Frontend:</strong> React</li>
